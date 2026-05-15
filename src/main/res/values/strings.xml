@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Ac2</string>
+
+    <string-array name="generos_livro">
+        <item>Selecione</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+    </string-array>
+
+    <string-array name="filtro_generos_livro">
+        <item>Todos</item>
+        <item>Romance</item>
+        <item>Fantasia</item>
+        <item>Terror</item>
+        <item>Ficção Científica</item>
+        <item>Biografia</item>
+    </string-array>
+
+    <string-array name="status_livro">
+        <item>Selecione</item>
+        <item>Quero ler</item>
+        <item>Lendo</item>
+        <item>Concluído</item>
+    </string-array>
+</resources>
